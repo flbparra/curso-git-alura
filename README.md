@@ -1,2 +1,3 @@
-# curso-tecnologias
-Repositório de atividades feitos nos cursos, bootcamp, aulas da universidade de brasília entre outras atividades que fiz.
+# Teste de Curso Git da Alura 
+Esse curso tinha como finalidade de explicar os principais comandos do git e suas lógicas.
+
